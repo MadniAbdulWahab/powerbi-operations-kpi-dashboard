@@ -176,11 +176,8 @@ Operations-KPI-Dashboard/
 ├── screenshots/
 │   ├── executive_overview.png
 │   ├── com_perf.png (commercial-performance-detail)
-│   ├── regional-commercial-performance-detail.png
 │   ├── op_perf.png (operational-performance-detail)
-│   ├── regional-operational-performance-detail.png
 │   ├── data_quality.png (data-quality-exceptions)
-│   └── regional-data-quality-exceptions.png
 └── data/
 ````
 
