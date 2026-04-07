@@ -162,7 +162,7 @@ Operations-KPI-Dashboard/
 ├── README.md
 ├── Operations KPI Dashboard.pbix
 ├── screenshots/
-│   ├── executive-overview.png
+│   ├── executive_overview.png
 │   ├── com_perf.png (commercial-performance-detail)
 │   ├── regional-commercial-performance-detail.png
 │   ├── op_perf.png (operational-performance-detail)
@@ -178,7 +178,7 @@ Operations-KPI-Dashboard/
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Commercial Performance Detail
 
