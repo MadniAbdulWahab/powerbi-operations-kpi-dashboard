@@ -1,0 +1,221 @@
+CustomerID,CustomerName,Segment,Country,Industry
+C001,Nordic Systems 1,Mid-Market,France,Healthcare
+C002,Apex Solutions 2,Small Business,Italy,Manufacturing
+C003,Zenith Systems 3,Enterprise,France,Logistics
+C004,Zenith Partners 4,Mid-Market,Germany,Technology
+C005,Vertex Systems 5,Small Business,France,Retail
+C006,Bright Dynamics 6,Mid-Market,Sweden,Energy
+C007,Bright Industries 7,Small Business,France,Energy
+C008,Prime Retail 8,Mid-Market,Germany,Retail
+C009,Zenith Solutions 9,Mid-Market,Poland,Retail
+C010,Apex Industries 10,Enterprise,France,Technology
+C011,Nova Solutions 11,Small Business,Sweden,Healthcare
+C012,Core Partners 12,Mid-Market,Poland,Healthcare
+C013,Atlas Works 13,Mid-Market,Poland,Energy
+C014,Prime Solutions 14,Small Business,Netherlands,Manufacturing
+C015,Vertex Industries 15,Mid-Market,France,Energy
+C016,Prime Works 16,Mid-Market,Poland,Logistics
+C017,Atlas Dynamics 17,Mid-Market,France,Logistics
+C018,Apex Industries 18,Mid-Market,France,Logistics
+C019,Nordic Retail 19,Small Business,Poland,Energy
+C020,Bright Works 20,Mid-Market,Sweden,Energy
+C021,Nova Industries 21,Small Business,France,Healthcare
+C022,Zenith Logistics 22,Small Business,Poland,Technology
+C023,Delta Works 23,Mid-Market,France,Energy
+C024,Atlas Industries 24,Enterprise,Germany,Logistics
+C025,Prime Works 25,Small Business,Italy,Manufacturing
+C026,Apex Systems 26,Small Business,Italy,Technology
+C027,Prime Works 27,Mid-Market,Poland,Logistics
+C028,Nordic Logistics 28,Mid-Market,Germany,Retail
+C029,Atlas Logistics 29,Small Business,Netherlands,Technology
+C030,Zenith Industries 30,Enterprise,Sweden,Retail
+C031,Nova Solutions 31,Mid-Market,Poland,Healthcare
+C032,Bright Solutions 32,Mid-Market,Sweden,Healthcare
+C033,Nordic Works 33,Mid-Market,Germany,Manufacturing
+C034,Bright Works 34,Enterprise,Sweden,Healthcare
+C035,Core Dynamics 35,Enterprise,Netherlands,Retail
+C036,Nordic Dynamics 36,Enterprise,Italy,Healthcare
+C037,Nordic Logistics 37,Enterprise,Italy,Retail
+C038,Nordic Solutions 38,Enterprise,Netherlands,Retail
+C039,Apex Retail 39,Small Business,Netherlands,Technology
+C040,Vertex Solutions 40,Mid-Market,Germany,Technology
+C041,Atlas Retail 41,Enterprise,Poland,Logistics
+C042,Prime Systems 42,Small Business,Netherlands,Manufacturing
+C043,Nordic Logistics 43,Enterprise,France,Technology
+C044,Zenith Logistics 44,Enterprise,Netherlands,Logistics
+C045,Core Systems 45,Mid-Market,Sweden,Retail
+C046,Core Partners 46,Mid-Market,Sweden,Technology
+C047,Nordic Partners 47,Mid-Market,Germany,Technology
+C048,Atlas Partners 48,Enterprise,Germany,Energy
+C049,Vertex Industries 49,Mid-Market,Netherlands,Logistics
+C050,Atlas Retail 50,Enterprise,Germany,Energy
+C051,Delta Systems 51,Enterprise,Germany,Technology
+C052,Nova Retail 52,Mid-Market,France,Retail
+C053,Apex Logistics 53,Enterprise,France,Logistics
+C054,Nova Industries 54,Mid-Market,Netherlands,Technology
+C055,Zenith Partners 55,Small Business,Netherlands,Manufacturing
+C056,Prime Logistics 56,Enterprise,France,Manufacturing
+C057,Delta Works 57,Small Business,Germany,Healthcare
+C058,Apex Works 58,Enterprise,Sweden,Technology
+C059,Atlas Works 59,Mid-Market,Poland,Retail
+C060,Apex Retail 60,Small Business,Germany,Manufacturing
+C061,Delta Dynamics 61,Enterprise,Sweden,Retail
+C062,Bright Systems 62,Small Business,Netherlands,Technology
+C063,Core Logistics 63,Enterprise,Netherlands,Healthcare
+C064,Core Systems 64,Enterprise,France,Healthcare
+C065,Prime Industries 65,Small Business,Italy,Logistics
+C066,Prime Logistics 66,Enterprise,Netherlands,Logistics
+C067,Delta Solutions 67,Small Business,France,Retail
+C068,Core Logistics 68,Small Business,Italy,Logistics
+C069,Vertex Solutions 69,Mid-Market,Netherlands,Healthcare
+C070,Nordic Solutions 70,Enterprise,Netherlands,Retail
+C071,Core Works 71,Mid-Market,Poland,Healthcare
+C072,Nova Systems 72,Mid-Market,Poland,Manufacturing
+C073,Atlas Dynamics 73,Small Business,Netherlands,Retail
+C074,Zenith Logistics 74,Small Business,Sweden,Healthcare
+C075,Delta Logistics 75,Mid-Market,Germany,Energy
+C076,Vertex Industries 76,Small Business,Netherlands,Manufacturing
+C077,Atlas Solutions 77,Mid-Market,Poland,Healthcare
+C078,Vertex Works 78,Small Business,France,Logistics
+C079,Zenith Systems 79,Small Business,Sweden,Energy
+C080,Delta Industries 80,Small Business,Italy,Technology
+C081,Apex Partners 81,Enterprise,Italy,Logistics
+C082,Vertex Works 82,Small Business,Netherlands,Logistics
+C083,Nordic Logistics 83,Mid-Market,Germany,Healthcare
+C084,Nordic Works 84,Enterprise,Sweden,Technology
+C085,Apex Retail 85,Small Business,Netherlands,Technology
+C086,Bright Systems 86,Mid-Market,Netherlands,Retail
+C087,Zenith Works 87,Small Business,Italy,Retail
+C088,Bright Works 88,Small Business,Italy,Logistics
+C089,Delta Retail 89,Small Business,France,Technology
+C090,Core Retail 90,Small Business,Germany,Technology
+C091,Nova Industries 91,Small Business,France,Logistics
+C092,Bright Partners 92,Small Business,Netherlands,Manufacturing
+C093,Vertex Systems 93,Mid-Market,Poland,Healthcare
+C094,Vertex Dynamics 94,Small Business,France,Energy
+C095,Vertex Logistics 95,Mid-Market,Poland,Logistics
+C096,Core Partners 96,Small Business,Netherlands,Manufacturing
+C097,Nova Logistics 97,Mid-Market,Sweden,Logistics
+C098,Zenith Partners 98,Mid-Market,France,Logistics
+C099,Bright Retail 99,Mid-Market,France,Healthcare
+C100,Core Systems 100,Enterprise,Sweden,Healthcare
+C101,Bright Systems 101,Enterprise,Netherlands,Healthcare
+C102,Bright Retail 102,Small Business,Sweden,Technology
+C103,Zenith Industries 103,Mid-Market,France,Technology
+C104,Nova Logistics 104,Mid-Market,Italy,Logistics
+C105,Core Works 105,Mid-Market,Germany,Technology
+C106,Core Systems 106,Mid-Market,Netherlands,Manufacturing
+C107,Vertex Dynamics 107,Mid-Market,Germany,Energy
+C108,Apex Works 108,Small Business,France,Logistics
+C109,Nova Industries 109,Enterprise,Sweden,Technology
+C110,Delta Solutions 110,Small Business,Italy,Healthcare
+C111,Prime Works 111,Mid-Market,France,Retail
+C112,Core Works 112,Enterprise,France,Energy
+C113,Vertex Dynamics 113,Enterprise,France,Manufacturing
+C114,Vertex Works 114,Small Business,Netherlands,Logistics
+C115,Nordic Industries 115,Small Business,Sweden,Retail
+C116,Atlas Logistics 116,Mid-Market,Germany,Energy
+C117,Vertex Partners 117,Mid-Market,Germany,Logistics
+C118,Vertex Dynamics 118,Small Business,Germany,Energy
+C119,Bright Logistics 119,Enterprise,Netherlands,Technology
+C120,Prime Retail 120,Mid-Market,Sweden,Energy
+C121,Vertex Industries 121,Enterprise,Sweden,Technology
+C122,Atlas Retail 122,Enterprise,Italy,Retail
+C123,Vertex Retail 123,Small Business,Italy,Logistics
+C124,Nordic Partners 124,Small Business,Poland,Healthcare
+C125,Nordic Solutions 125,Small Business,Poland,Retail
+C126,Delta Industries 126,Mid-Market,Italy,Manufacturing
+C127,Delta Systems 127,Enterprise,Poland,Manufacturing
+C128,Core Works 128,Small Business,Sweden,Healthcare
+C129,Nova Partners 129,Mid-Market,Poland,Manufacturing
+C130,Core Dynamics 130,Small Business,France,Energy
+C131,Apex Industries 131,Mid-Market,Netherlands,Technology
+C132,Apex Industries 132,Small Business,Poland,Retail
+C133,Prime Systems 133,Small Business,Netherlands,Energy
+C134,Prime Retail 134,Mid-Market,Sweden,Healthcare
+C135,Prime Partners 135,Small Business,Netherlands,Healthcare
+C136,Core Works 136,Mid-Market,Italy,Retail
+C137,Delta Industries 137,Enterprise,Poland,Healthcare
+C138,Nova Retail 138,Mid-Market,Sweden,Healthcare
+C139,Apex Dynamics 139,Enterprise,Germany,Logistics
+C140,Apex Dynamics 140,Small Business,Germany,Logistics
+C141,Zenith Solutions 141,Small Business,Germany,Logistics
+C142,Prime Industries 142,Mid-Market,Sweden,Retail
+C143,Nova Logistics 143,Mid-Market,France,Logistics
+C144,Nordic Dynamics 144,Enterprise,France,Healthcare
+C145,Bright Systems 145,Mid-Market,France,Technology
+C146,Vertex Industries 146,Small Business,Netherlands,Energy
+C147,Prime Systems 147,Mid-Market,Netherlands,Logistics
+C148,Vertex Dynamics 148,Mid-Market,Italy,Logistics
+C149,Prime Solutions 149,Enterprise,Poland,Technology
+C150,Atlas Retail 150,Enterprise,Poland,Healthcare
+C151,Delta Systems 151,Enterprise,Poland,Manufacturing
+C152,Nova Systems 152,Small Business,Germany,Healthcare
+C153,Core Solutions 153,Enterprise,France,Healthcare
+C154,Atlas Solutions 154,Mid-Market,Sweden,Logistics
+C155,Apex Partners 155,Mid-Market,Italy,Healthcare
+C156,Atlas Partners 156,Small Business,France,Healthcare
+C157,Prime Solutions 157,Small Business,Netherlands,Healthcare
+C158,Delta Solutions 158,Enterprise,Italy,Logistics
+C159,Bright Partners 159,Small Business,Poland,Retail
+C160,Nova Retail 160,Small Business,Germany,Logistics
+C161,Apex Dynamics 161,Mid-Market,Sweden,Manufacturing
+C162,Bright Systems 162,Small Business,Germany,Healthcare
+C163,Nordic Dynamics 163,Enterprise,France,Healthcare
+C164,Vertex Dynamics 164,Mid-Market,Germany,Logistics
+C165,Atlas Retail 165,Small Business,Netherlands,Retail
+C166,Prime Works 166,Small Business,Germany,Manufacturing
+C167,Prime Logistics 167,Enterprise,Poland,Logistics
+C168,Core Logistics 168,Enterprise,Netherlands,Technology
+C169,Nova Dynamics 169,Mid-Market,Netherlands,Manufacturing
+C170,Delta Retail 170,Enterprise,Germany,Logistics
+C171,Delta Partners 171,Enterprise,Germany,Manufacturing
+C172,Atlas Dynamics 172,Enterprise,France,Logistics
+C173,Vertex Solutions 173,Mid-Market,France,Technology
+C174,Nova Industries 174,Mid-Market,Poland,Healthcare
+C175,Apex Retail 175,Small Business,Sweden,Healthcare
+C176,Zenith Systems 176,Mid-Market,Sweden,Manufacturing
+C177,Nova Dynamics 177,Mid-Market,Poland,Energy
+C178,Vertex Industries 178,Small Business,France,Logistics
+C179,Core Retail 179,Small Business,Italy,Manufacturing
+C180,Zenith Partners 180,Mid-Market,Poland,Technology
+C181,Atlas Retail 181,Enterprise,Poland,Manufacturing
+C182,Zenith Retail 182,Small Business,Germany,Energy
+C183,Core Partners 183,Mid-Market,Italy,Logistics
+C184,Core Retail 184,Mid-Market,France,Retail
+C185,Core Systems 185,Mid-Market,Italy,Retail
+C186,Zenith Solutions 186,Enterprise,Germany,Technology
+C187,Nova Systems 187,Small Business,Netherlands,Manufacturing
+C188,Delta Industries 188,Mid-Market,Sweden,Logistics
+C189,Atlas Systems 189,Enterprise,Italy,Manufacturing
+C190,Nova Solutions 190,Mid-Market,Sweden,Healthcare
+C191,Prime Systems 191,Mid-Market,Sweden,Energy
+C192,Apex Industries 192,Mid-Market,Italy,Manufacturing
+C193,Core Industries 193,Enterprise,Italy,Manufacturing
+C194,Atlas Dynamics 194,Mid-Market,Germany,Retail
+C195,Prime Solutions 195,Small Business,Italy,Healthcare
+C196,Vertex Solutions 196,Mid-Market,Italy,Technology
+C197,Atlas Works 197,Mid-Market,Sweden,Healthcare
+C198,Apex Works 198,Enterprise,Italy,Logistics
+C199,Prime Systems 199,Enterprise,France,Logistics
+C200,Vertex Industries 200,Mid-Market,France,Retail
+C201,Bright Logistics 201,Small Business,Poland,Retail
+C202,Prime Retail 202,Enterprise,Germany,Manufacturing
+C203,Atlas Systems 203,Mid-Market,Sweden,Logistics
+C204,Prime Industries 204,Mid-Market,Italy,Energy
+C205,Vertex Works 205,Mid-Market,Poland,Manufacturing
+C206,Core Dynamics 206,Small Business,Sweden,Energy
+C207,Atlas Works 207,Mid-Market,Germany,Energy
+C208,Core Solutions 208,Mid-Market,Poland,Logistics
+C209,Apex Works 209,Mid-Market,Germany,Technology
+C210,Prime Works 210,Mid-Market,Germany,Healthcare
+C211,Core Works 211,Enterprise,Poland,Technology
+C212,Nordic Solutions 212,Mid-Market,Netherlands,Retail
+C213,Apex Industries 213,Mid-Market,Netherlands,Manufacturing
+C214,Core Dynamics 214,Small Business,Poland,Healthcare
+C215,Bright Dynamics 215,Enterprise,Germany,Energy
+C216,Delta Solutions 216,Mid-Market,Sweden,Logistics
+C217,Atlas Partners 217,Mid-Market,Germany,Retail
+C218,Bright Systems 218,Enterprise,Sweden,Technology
+C219,Atlas Partners 219,Small Business,Poland,Healthcare
+C220,Bright Partners 220,Small Business,Poland,Technology

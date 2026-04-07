@@ -1,0 +1,16 @@
+TableName,ColumnName,Description
+Fact_Operations,TransactionID,Unique transaction identifier
+Fact_Operations,OrderDate,Date of transaction
+Fact_Operations,CustomerID,Customer key
+Fact_Operations,ProductID,Product key
+Fact_Operations,RegionID,Region key
+Fact_Operations,TeamID,Team key
+Fact_Operations,Quantity,Transaction quantity
+Fact_Operations,Revenue,Transaction revenue
+Fact_Operations,Cost,Original cost with some missing values
+Fact_Operations,Profit,Original profit
+Fact_Operations,TargetRevenue,Original target revenue with some missing values
+Fact_Operations,ProcessingDays,Processing duration in days
+Fact_Operations,Status,Transaction status
+Fact_Operations,CompletionFlag,Completion indicator
+Fact_Operations,SatisfactionScore,Customer satisfaction score

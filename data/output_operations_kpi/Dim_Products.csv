@@ -1,0 +1,33 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice
+P001,Bearings 1,Components,Bearings,248.2
+P002,Valves 2,Components,Valves,1430.26
+P003,Couplings 3,Components,Couplings,856.53
+P004,Seals 4,Components,Seals,1335.42
+P005,Pumps 5,Components,Pumps,1763.02
+P006,Sensors 6,Devices,Sensors,1024.67
+P007,Controllers 7,Devices,Controllers,961.88
+P008,Meters 8,Devices,Meters,241.05
+P009,Actuators 9,Devices,Actuators,570.98
+P010,Switches 10,Devices,Switches,959.8
+P011,Monitoring 11,Software,Monitoring,1261.11
+P012,Scheduling 12,Software,Scheduling,1470.28
+P013,Analytics 13,Software,Analytics,759.98
+P014,Planning 14,Software,Planning,230.77
+P015,Boards 15,Electronics,Boards,604.08
+P016,Power Units 16,Electronics,Power Units,1648.12
+P017,Modules 17,Electronics,Modules,478.49
+P018,Converters 18,Electronics,Converters,879.57
+P019,Maintenance 19,Services,Maintenance,1684.43
+P020,Inspection 20,Services,Inspection,161.83
+P021,Support Kits 21,Services,Support Kits,1128.92
+P022,Training 22,Services,Training,1716.22
+P023,Scheduling 23,Software,Scheduling,506.91
+P024,Boards 24,Electronics,Boards,1041.46
+P025,Pumps 25,Components,Pumps,1647.34
+P026,Couplings 26,Components,Couplings,343.72
+P027,Maintenance 27,Services,Maintenance,999.33
+P028,Inspection 28,Services,Inspection,1380.69
+P029,Bearings 29,Components,Bearings,1243.94
+P030,Converters 30,Electronics,Converters,905.82
+P031,Valves 31,Components,Valves,464.15
+P032,Pumps 32,Components,Pumps,944.49

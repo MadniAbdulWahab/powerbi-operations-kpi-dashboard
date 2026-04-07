@@ -1,0 +1,20 @@
+RegionID,RegionName,Country,Manager
+R01,Bavaria,Germany,Anna Keller
+R02,North Rhine-Westphalia,Germany,Daniel Braun
+R03,Baden-Wurttemberg,Germany,Lena Vogt
+R04,Lower Saxony,Germany,Markus Neumann
+R05,North Holland,Netherlands,Eva Jansen
+R06,South Holland,Netherlands,Tom de Vries
+R07,Utrecht,Netherlands,Sanne Bakker
+R08,Masovia,Poland,Piotr Nowak
+R09,Silesia,Poland,Agnieszka Zielinska
+R10,Lesser Poland,Poland,Katarzyna Wozniak
+R11,Pomerania,Poland,Michal Lewandowski
+R12,Stockholm County,Sweden,Erik Lund
+R13,Vastra Gotaland,Sweden,Maja Svensson
+R14,Skane,Sweden,Oskar Nilsson
+R15,Auvergne-Rhone-Alpes,France,Claire Martin
+R16,Ile-de-France,France,Julien Bernard
+R17,Occitanie,France,Sophie Laurent
+R18,Lombardy,Italy,Giulia Romano
+R19,Lazio,Italy,Marco Conti
