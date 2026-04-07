@@ -5,8 +5,9 @@ A multi-page **Power BI dashboard project** built to analyze commercial performa
 
 ## Overview
 
-This project was created as a **Power BI dashboard** to demonstrate practical BI skills across the full reporting workflow:
+This project was created as a **Power BI portfolio dashboard** to demonstrate practical BI skills across the full reporting workflow:
 
+- synthetic dataset design in **Python**
 - data preparation in **Power Query**
 - **star schema** data modeling
 - **DAX** KPI and analytical measure creation
@@ -16,7 +17,7 @@ This project was created as a **Power BI dashboard** to demonstrate practical BI
 - business-oriented storytelling
 - data quality and exception monitoring
 
-The dashboard is based on a synthetic but realistic operations dataset and is designed to reflect a professional reporting use case rather than a single-chart showcase.
+A key part of this project was building the dataset itself in Python rather than relying on a downloaded sample file. The data was generated to simulate a more realistic business environment, including uneven regional volumes, country-level variation, product mix differences, seasonality, target-vs-actual gaps, missing values, unknown mappings, outliers, and duplicate records. This made the reporting, cleaning, and KPI design much more meaningful.
 
 ---
 
@@ -80,11 +81,22 @@ Modeling decisions:
 
 ---
 
-## Data Preparation
+## Dataset & Data Preparation
 
-Data cleaning and transformation were completed in **Power Query**.
+The dataset was **generated in Python** and then prepared in **Power Query** for reporting.
 
-Main preparation steps included:
+The Python-generated data includes:
+- a transaction-level fact table
+- supporting dimension tables
+- realistic country/region structure
+- uneven regional distribution
+- product/category skew
+- seasonal revenue behavior
+- target revenue variation
+- operational statuses and processing times
+- controlled data quality issues such as missing values, unknown mappings, outliers, and duplicates.
+
+Power Query preparation then included:
 - duplicate removal
 - handling missing values
 - replacing blank region/team mappings with `"unknown"`
